@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>please enter your amazon account email id</description>
+      <initValue>'tituabcd@gmail.com'</initValue>
+      <name>email_id_amazon</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>please enter your amazon account password</description>
+      <initValue>'Fiboo112358@@'</initValue>
+      <name>email_id_password_amazon</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>please enter your desired pincode</description>
+      <initValue>'206001'</initValue>
+      <name>pincode</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

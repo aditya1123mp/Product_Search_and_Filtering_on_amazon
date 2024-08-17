@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>full_test_case_to_be_run</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>767cc814-129c-4300-a542-b07fafe9e90d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>accessing_amazon_website</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6016582-bea3-47b3-bf7f-7a9f4f80de20</testCaseGuid>
+</TestCaseEntity>

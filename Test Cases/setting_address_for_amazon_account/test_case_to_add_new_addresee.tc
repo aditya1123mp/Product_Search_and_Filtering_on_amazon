@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_add_new_addresee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>051b0bb6-23ab-4007-92d6-8e3ab1a49086</testCaseGuid>
+</TestCaseEntity>

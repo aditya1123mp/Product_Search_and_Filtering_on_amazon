@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>continue_button</name>
+   <tag></tag>
+   <elementGuidId>76183f90-2441-488d-bf1b-0b3624364159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='continue']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id=&quot;continue-announce&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@id=&quot;continue-announce&quot;]</value>
+      <webElementGuid>86d673fc-94a9-46a5-a82d-a2cae7590e44</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

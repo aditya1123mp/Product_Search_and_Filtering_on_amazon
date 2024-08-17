@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_remove_addresse_added</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30d0f747-1eb4-4503-a910-c5b45fde6912</testCaseGuid>
+</TestCaseEntity>

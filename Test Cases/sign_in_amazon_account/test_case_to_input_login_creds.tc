@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_input_login_creds</description>
+   <name>test_case_to_input_login_creds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c5a7840-2cc0-48fd-91ee-ee10282e2e2e</testCaseGuid>
+</TestCaseEntity>
