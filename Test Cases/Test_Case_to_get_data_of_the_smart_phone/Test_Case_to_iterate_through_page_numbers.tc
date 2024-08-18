@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Case_to_iterate_through_page_numbers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50a9ccc2-c202-4eac-9bbc-ce8818c3a576</testCaseGuid>
+</TestCaseEntity>

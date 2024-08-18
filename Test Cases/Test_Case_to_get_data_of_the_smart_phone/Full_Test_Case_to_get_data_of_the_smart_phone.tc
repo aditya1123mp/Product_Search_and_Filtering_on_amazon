@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Full_Test_Case_to_get_data_of_the_smart_phone</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f93aeebe-28ce-4df5-9be3-95b46d92f8e7</testCaseGuid>
+</TestCaseEntity>
