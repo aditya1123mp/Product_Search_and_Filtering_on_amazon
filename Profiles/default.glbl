@@ -64,4 +64,14 @@
       <initValue>''</initValue>
       <name>screen_size</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>sold_by</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>ships_from</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

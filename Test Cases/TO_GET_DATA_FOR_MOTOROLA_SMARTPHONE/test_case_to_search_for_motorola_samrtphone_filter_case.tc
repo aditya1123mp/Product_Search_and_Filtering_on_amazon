@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_search_for_motorola_samrtphone_filter_case</description>
+   <name>test_case_to_search_for_motorola_samrtphone_filter_case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3805cf5-5369-4e7d-9a97-bf6623760917</testCaseGuid>
+</TestCaseEntity>

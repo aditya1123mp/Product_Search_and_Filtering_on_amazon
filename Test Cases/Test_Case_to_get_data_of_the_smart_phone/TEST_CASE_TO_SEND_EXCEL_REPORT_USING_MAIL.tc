@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST_CASE_TO_SEND_EXCEL_REPORT_USING_MAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23b16d05-6974-4f00-b07f-6997a9f4fd9f</testCaseGuid>
+</TestCaseEntity>

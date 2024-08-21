@@ -95,7 +95,7 @@ for (int i = 1; i <= lastPageNumber; i++) {
 		link.click()
 		
 		// Call your test case to extract product data
-		WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/dummy_test_case_002'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_TO_GET_DATA_OF_THE_PRODUCT_PAGE'), [:], FailureHandling.STOP_ON_FAILURE)
 		
 		// Store the product data in Excel
 		int rowIndex = sheet.getLastRowNum() + 1

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FULL_TEST_CASE_TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILTER</description>
+   <name>FULL_TEST_CASE_TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILTER_ITEL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f6a16eb-e0df-4776-b900-a48894f910b0</testCaseGuid>
+</TestCaseEntity>

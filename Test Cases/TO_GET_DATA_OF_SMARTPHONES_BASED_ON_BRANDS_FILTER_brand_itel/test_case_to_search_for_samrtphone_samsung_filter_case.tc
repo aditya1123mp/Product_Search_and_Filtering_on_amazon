@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_search_for_samrtphone_samsung_filter_case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccbebd5c-ebd1-40a9-ade5-ed6d6050c506</testCaseGuid>
+</TestCaseEntity>

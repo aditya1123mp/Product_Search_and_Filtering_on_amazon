@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST_CASE_TO_FILTER_SMARTPHONE_BRAND</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63475f49-a032-4ade-a0db-4b620a0c1dda</testCaseGuid>
+</TestCaseEntity>

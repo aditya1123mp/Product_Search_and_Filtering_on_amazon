@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST_CASE_FOR_MAIL_BRAND_FILTER_MOTOROLA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61219f65-b4cf-4db4-9e91-7fdf9210b4f6</testCaseGuid>
+</TestCaseEntity>

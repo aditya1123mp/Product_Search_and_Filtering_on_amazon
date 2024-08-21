@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TEST_CASE_TO_FILTER_SMARTPHONE_BRAND_MOTOROLA</description>
+   <name>TEST_CASE_TO_FILTER_SMARTPHONE_BRAND_MOTOROLA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8831516d-6809-453f-82a5-1e717c953edc</testCaseGuid>
+</TestCaseEntity>

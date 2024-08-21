@@ -20,11 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/Test_Case_to_login_to_the_application'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/Test_Case_to_search_for_product'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_FOR_SCRAPPING_DATA_AND_SAVING_INTO_EXCEL_FILE'), 
+WebUI.callTestCase(findTestCase('TO_GET_DATA_FOR_MOTOROLA_SMARTPHONE/test_case_to_search_for_motorola_samrtphone_filter_case'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_TO_SEND_EXCEL_REPORT_USING_MAIL'), [:], 
+WebUI.callTestCase(findTestCase('TO_GET_DATA_FOR_MOTOROLA_SMARTPHONE/TEST_CASE_TO_FILTER_SMARTPHONE_BRAND_MOTOROLA'), [:], 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('TO_GET_DATA_FOR_MOTOROLA_SMARTPHONE/TEST_CASE_FOR_MAIL_BRAND_FILTER_MOTOROLA'), [:], FailureHandling.STOP_ON_FAILURE)
 

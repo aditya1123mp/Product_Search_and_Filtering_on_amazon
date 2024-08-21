@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>dummy test case</name>
+   <name>TEST_CASE_FOR_SCRAPPING_DATA_FOR_SINGLE_PAGE</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f67394c0-9f7b-491b-9c40-e9a30b21ab8b</testCaseGuid>
+   <testCaseGuid>ad86b580-b57b-4391-b84f-66aabf5780b2</testCaseGuid>
 </TestCaseEntity>

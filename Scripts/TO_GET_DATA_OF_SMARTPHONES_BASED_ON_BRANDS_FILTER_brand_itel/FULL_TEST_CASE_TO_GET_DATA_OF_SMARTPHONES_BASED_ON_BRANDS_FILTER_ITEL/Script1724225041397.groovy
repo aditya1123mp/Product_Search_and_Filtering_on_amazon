@@ -20,11 +20,12 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/Test_Case_to_login_to_the_application'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/Test_Case_to_search_for_product'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_FOR_SCRAPPING_DATA_AND_SAVING_INTO_EXCEL_FILE'), 
+WebUI.callTestCase(findTestCase('TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILTER_brand_itel/test_case_to_search_for_samrtphone_samsung_filter_case'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_TO_SEND_EXCEL_REPORT_USING_MAIL'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILTER_brand_itel/TEST_CASE_TO_FILTER_SMARTPHONE_BRAND'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILTER_brand_itel/TEST_CASE_FOR_MAIL_BRAND_FILTER_ITEL'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST_CASE_TO_SCRAPE_DATA_FOR_SAMSUNG_SMARTPHONE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00e8a690-8be4-4861-9d81-51fdbef1605b</testCaseGuid>
+</TestCaseEntity>

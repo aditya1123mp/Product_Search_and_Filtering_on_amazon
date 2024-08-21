@@ -91,14 +91,27 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/To_get_data_of_
     GlobalVariable.price_of_the_product = 'Not_available'
 }
 
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/To_get_data_of_the_smart_phone/getting_screen_size'), 10, 
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/To_get_data_of_the_smart_phone/sold_by'), 10, 
     FailureHandling.OPTIONAL)) {
-    GlobalVariable.screen_size = WebUI.getText(findTestObject('Object Repository/To_get_data_of_the_smart_phone/getting_screen_size'))
+    GlobalVariable.sold_by = WebUI.getText(findTestObject('Object Repository/To_get_data_of_the_smart_phone/sold_by'))
 
-    System.out.println('Screen Size: ' + GlobalVariable.screen_size)
+    System.out.println('Sold_by: ' + GlobalVariable.sold_by)
 } else {
-    GlobalVariable.screen_size = 'Not_available'
+    GlobalVariable.sold_by = 'Not_available'
 }
+
+
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/To_get_data_of_the_smart_phone/ships_from'), 10,
+	FailureHandling.OPTIONAL)) {
+	GlobalVariable.ships_from = WebUI.getText(findTestObject('Object Repository/To_get_data_of_the_smart_phone/ships_from'))
+
+	System.out.println('ships_from: ' + GlobalVariable.ships_from)
+} else {
+	GlobalVariable.ships_from = 'Not_available'
+}
+
+
+
 
 // Close the new window and switch back to the original window
 WebUI.closeWindowIndex(1)

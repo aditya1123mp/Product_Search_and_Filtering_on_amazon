@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TEST_CASE_TO_SCRAPE_DATA_FOR_MOTOROLA_SMARTPHONE</description>
+   <name>TEST_CASE_TO_SCRAPE_DATA_FOR_MOTOROLA_SMARTPHONE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78e0c78a-7a1a-4217-976a-4eaa9ef6b017</testCaseGuid>
+</TestCaseEntity>

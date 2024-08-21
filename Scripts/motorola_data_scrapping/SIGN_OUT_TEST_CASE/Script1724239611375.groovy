@@ -17,14 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/Test_Case_to_login_to_the_application'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('sign_in_amazon_account/amazon_logo'))
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/Test_Case_to_search_for_product'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2)
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_FOR_SCRAPPING_DATA_AND_SAVING_INTO_EXCEL_FILE'), 
-    [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.click(findTestObject('sign_in_amazon_account/account_button'))
 
-WebUI.callTestCase(findTestCase('Test_Case_to_get_data_of_the_smart_phone/TEST_CASE_TO_SEND_EXCEL_REPORT_USING_MAIL'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.mouseOver(findTestObject('sign_in_amazon_account/account_button'), 'font-size')
+
+WebUI.click(findTestObject('Object Repository/sign_in_amazon_account/sign_out'))
 

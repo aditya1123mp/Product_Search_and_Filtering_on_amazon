@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FULL_TEST_CASE_TO_GET_DATA_FOR_MOTOROLA_SMARTPHONE</description>
+   <name>FULL_TEST_CASE_TO_GET_DATA_FOR_MOTOROLA_SMARTPHONE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78ce1702-798c-4c5d-9da1-b1e5c88feb35</testCaseGuid>
+</TestCaseEntity>
