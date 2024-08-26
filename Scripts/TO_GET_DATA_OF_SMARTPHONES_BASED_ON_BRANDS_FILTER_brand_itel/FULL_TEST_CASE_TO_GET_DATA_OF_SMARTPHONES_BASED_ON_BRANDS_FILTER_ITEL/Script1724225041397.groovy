@@ -29,3 +29,5 @@ WebUI.callTestCase(findTestCase('TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILT
 WebUI.callTestCase(findTestCase('TO_GET_DATA_OF_SMARTPHONES_BASED_ON_BRANDS_FILTER_brand_itel/TEST_CASE_FOR_MAIL_BRAND_FILTER_ITEL'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('motorola_data_scrapping/SIGN_OUT_TEST_CASE'), [:], FailureHandling.STOP_ON_FAILURE)
+
